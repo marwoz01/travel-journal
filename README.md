@@ -16,4 +16,4 @@ The application displays visited places (such as Mount Fuji, Sydney Opera House,
 - CSS
 
 ## Live demo
-https://marwoz01.github.io/travel-journal/
+[https://marwoz01.github.io/travel-journal/](https://travel-journal-six.vercel.app/)
